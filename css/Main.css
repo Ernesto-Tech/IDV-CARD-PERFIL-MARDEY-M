@@ -1,0 +1,201 @@
+.mainSliderCustomHeight {
+  /* height: 87vh !important; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.carousel-caption {
+  bottom: 17.5vh;
+}
+
+.carousel-item {
+  height: 80vh !important;
+}
+
+.main-slider-img-logo {
+  height: 65px;
+  width: auto;
+  margin-bottom: 40px;
+}
+
+.main-slider-title {
+  font-size: 375%;
+}
+
+.main-slider-sub-title {
+  font-size: 187.5%;
+}
+
+.main-slider-btn {
+  margin-top: 40px;
+}
+
+/* Separetor */
+.customSeparetor100 {
+  height: 100px;
+}
+
+.customSeparetor50{
+  height: 50px;
+}
+
+/* Segunda Pantalla Redes Sociales */
+.bi-youtube,
+.bi-twitter-x,
+.bi-linkedin,
+.bi-facebook {
+  font-size: 35px;
+  color: white;
+}
+
+.buttons{
+  min-width: 700px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons a{
+  text-decoration: none;
+  font-size: 45px;
+  width: 100px;
+  height: 100px;
+  line-height: 90px;
+  text-align: center;
+  background: black;
+  color: white;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+  transition: all .4s ease-in-out;
+}
+
+.buttons a:hover{
+  transform: scale(1.2);
+}
+
+/* Tercer Pantalla Contactos */
+.slider-btn{
+  height: 45px;
+  width: 350px;
+}
+
+/* height: 45px; width: 350px;*/
+
+/* Quinta Pantalla */
+
+.carousel-caption {
+  bottom: 20vh;
+}
+
+.Service-Carousel-Title {
+  font-size: 375%;
+}
+
+.Service-Carousel-SubTitle {
+  font-size: 187.5%;
+}
+
+.main-carousel-btn {
+  margin-top: 40px;
+  color: white;
+}
+
+/* SEXTA PANTALLA FORMULARIO  */
+.main-submit-btn {
+  display: inline-block;
+    cursor: pointer;
+    position: relative;
+    font-family: 'Open Sans', Arial, sans-serif;
+    border: none;
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: .05em;
+    font-size: 13px;
+    line-height: 1em;
+    padding: 11px 18px;
+}
+
+/* SEPTIMA PANTALLA FOOTER */
+#footer{
+  clear: both;
+    overflow: auto;
+    margin: auto;
+    background: #282c2d;
+    font-size: 14px;
+    color: #999b9c;
+    padding-top: 52px;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 0;
+}
+
+#footer h3 {
+  color: #c8c8c8;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 0px;
+  margin-bottom: 22px;
+}
+
+.textwidget {
+  padding: 0 0 10px;
+  margin: 0px 0 0;
+}
+
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+.boc_contact_icon {
+  clear: both;
+  margin-bottom: 2px;
+  line-height: 27px;
+}
+
+.boc_contact_icon .icon {
+  float: left;
+  width: 16px;
+  margin-right: 16px;
+  line-height: 29px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.footer_btm {
+  clear: both;
+  padding: 20px 0px 20px;
+  background: #1f2123;
+  border-top: 1px solid #2a2a2a;
+  margin-top: 16px;
+  overflow: hidden;
+}
+
+.container-footer {
+  width: 1200px;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#powered {
+  float: left;
+  margin-top: 2px;
+  margin-right: 10px;
+}
+
+a, a:visited {
+  color: #444;
+  outline: 0;
+  text-decoration: none;
+  -webkit-transition: color .14s linear;
+  -moz-transition: color .14s linear;
+  -ms-transition: color .14s linear;
+  -o-transition: color .14s linear;
+  transition: color .14s linear;
+}
